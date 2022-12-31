@@ -4,7 +4,7 @@ Earthquake occurrences were generally indicative of Poisson distributions when c
 
 This readme document will contain very brief description of some of the results that are fully available for perusal in this repository.
 
-##Inter-arrival times
+## Inter-arrival times
 
 ### Interarrival times against exponential and gamma distributions | 100 day sample
 
