@@ -78,3 +78,11 @@ Let us look at the same plots but for a 500 day catalog for both GEONET and IRIS
 
 
 A more nuanced or fine grained attempt at classifying based off of magnitude instead of our 1.0 magnitude ranges may be appropriate for a future experimentation.
+
+
+## Concluding remarks
+
+Generally, it was determined that as opposed to an exponential distribution, inter-arrival times appear to fit the Gamma distribution better, at least for the GEONET datasets for both 100 and 500 day samples.  It is arguable that aside from gamma, or a standardized beta distribution (which is not usually a practical application), the exponential distribution is the next best fit for the data.  Notice that an 'IRIS' dataset was mentioned in this simple showcase. This repository in fact has the equivalent IRIS databases imported to compare with the GEONET databases for the same time periods for the reader's curiousity.  The corresponding R files that conduct the analysis and Python file(watch.py) used to extract the information are available for you as well.
+
+An interesting feature of exponential functions to take note of, is that the sum of various independent exponential variables, tends to lead to a Gamma distribution! Add to the fact that earthquakes, especially of higher magnitudes, cause **aftershocks**, which are smaller magnitude versions of the original earthquake originating from the same, adjacent or at least similar faulting structure.
+
