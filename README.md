@@ -13,17 +13,23 @@ We examine, amongst a number of features, the time between earthquakes. This is 
 Let us have a quick look at a Cullen and Frey plot for inter-arrival times of Earthquakes for our 100 day sample (we did 100,250 and 500 day samples for this study)
 
 #### Cullen and Frey plot | 100 days
+
+##### GEONET earthquakes 4-5 magnitudes
 ![GEONET_4to5_100days_Times_CullenFrey](https://user-images.githubusercontent.com/100022747/210140996-a8b15097-14a8-455e-9ef7-4dc26b19677a.png)
+##### GEONET earthquakes 5-6 magnitudes
 ![GEONET_5to6_100days_Times_CullenFrey](https://user-images.githubusercontent.com/100022747/210141161-3176b4c2-ac5d-4f5f-bc98-a7ae8a80b251.png)
+##### GEONET earthquakes 6-7 magnitudes
 ![GEONET_6to7_100days_Times_CullenFrey](https://user-images.githubusercontent.com/100022747/210141162-e24df1a8-469a-429b-bf34-4da5195998a0.png)
 
 
 #### GEONET Inter-arrival time Distributions | 100 days
 
 Wonder what their distributions look like based off of magnitude? Here are some plots for 4-5,5-6 and 6-7 for this 100 day period for the GEONET catalog of recorded earthquakes!
-
+##### GEONET earthquakes 4-5 magnitudes
 ![GEONET_4to5_100daysTimes](https://user-images.githubusercontent.com/100022747/210141079-07d50068-0528-4768-9569-ebc6281e901e.png)
+##### GEONET earthquakes 5-6 magnitudes
 ![GEONET_5to6_100daysTimes](https://user-images.githubusercontent.com/100022747/210141080-de1818e8-1102-4ae0-879d-ae44e6fa3567.png)
+##### GEONET earthquakes 6-7 magnitudes
 ![GEONET_6to7_100daysTimes](https://user-images.githubusercontent.com/100022747/210141081-c75bf470-7cba-4e4e-bc86-f12e8839c1c8.png)
 
 #### GEONET Inter-arrival time Distributions | 100 days
@@ -45,15 +51,20 @@ Let us look at the same plots but for a 500 day catalog for both GEONET and IRIS
 
 #### Cullen and Frey plot | 500 days
 
+##### GEONET earthquakes 4-5 magnitudes
 ![GEONET_4to5_500days_Times_CullenFrey](https://user-images.githubusercontent.com/100022747/210141176-cfcbd591-99f6-4e0c-845c-96dac6dfe518.png)
+##### GEONET earthquakes 5-6 magnitudes
 ![GEONET_5to6_500days_Times_CullenFrey](https://user-images.githubusercontent.com/100022747/210141178-569d517f-6a9e-42f9-8740-04c75608d533.png)
+##### GEONET earthquakes 6-7 magnitudes
 ![GEONET_6to7_500days_Times_CullenFrey](https://user-images.githubusercontent.com/100022747/210141180-0bed4bae-8531-40aa-9548-2b1abf6e5083.png)
 
 #### GEONET Inter-arrival time Distributions | 500 days
-![GEONET_6to7_500daysTimes](https://user-images.githubusercontent.com/100022747/210141192-2a5ae89a-602e-4c98-a7de-376a236988dd.png)
+##### GEONET earthquakes 4-5 magnitudes
 ![GEONET_4to5_500daysTimes](https://user-images.githubusercontent.com/100022747/210141193-18867b18-daa4-4750-80d1-f40b43757496.png)
+##### GEONET earthquakes 5-6 magnitudes
 ![GEONET_5to6_500daysTimes](https://user-images.githubusercontent.com/100022747/210141194-de4084c2-e944-407c-98da-7dd675ff3f6d.png)
-
+##### GEONET earthquakes 6-7 magnitudes
+![GEONET_6to7_500daysTimes](https://user-images.githubusercontent.com/100022747/210141192-2a5ae89a-602e-4c98-a7de-376a236988dd.png)
 #### GEONET Inter-arrival time Distributions | 500 days
 
 
